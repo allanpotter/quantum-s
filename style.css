@@ -1,0 +1,18 @@
+body{
+ background: url(assets/assets/bg-mobile.jpg) no-repeat top center/cover; 
+}
+
+#container{
+    width:360px;
+    border: 1px solid red;
+    margin-right:auto;
+    margin-left:auto;
+}
+#icon {
+ text-align:left;
+}
+#icon img {
+ width:350px;
+ display:inline;
+
+}
